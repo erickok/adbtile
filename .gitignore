@@ -1,9 +1,14 @@
+# Mac OS X clutter
+*.DS_Store
+
+# Windows clutter
+Thumbs.db
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea
+.gradle/
+build/
 *.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
